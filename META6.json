@@ -12,7 +12,7 @@
             },
             "depends" : [ ],
             "build-depends" : [ ],
-            "test-depends" : [ 'Test' ],
+            "test-depends" : [ "Test" ],
             "resources" : [ ],
             "tags": [
                 "Object", "Examine", "ObjectExamine"
